@@ -1,0 +1,14 @@
+/home/kanonen/Projetos/AbyssPanel/bin/Debug/net10.0/AbyssPanel
+/home/kanonen/Projetos/AbyssPanel/bin/Debug/net10.0/AbyssPanel.deps.json
+/home/kanonen/Projetos/AbyssPanel/bin/Debug/net10.0/AbyssPanel.runtimeconfig.json
+/home/kanonen/Projetos/AbyssPanel/bin/Debug/net10.0/AbyssPanel.dll
+/home/kanonen/Projetos/AbyssPanel/bin/Debug/net10.0/AbyssPanel.pdb
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/AbyssPanel.GeneratedMSBuildEditorConfig.editorconfig
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/AbyssPanel.AssemblyInfoInputs.cache
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/AbyssPanel.AssemblyInfo.cs
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/AbyssPanel.csproj.CoreCompileInputs.cache
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/AbyssPanel.dll
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/refint/AbyssPanel.dll
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/AbyssPanel.pdb
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/AbyssPanel.genruntimeconfig.cache
+/home/kanonen/Projetos/AbyssPanel/obj/Debug/net10.0/ref/AbyssPanel.dll
